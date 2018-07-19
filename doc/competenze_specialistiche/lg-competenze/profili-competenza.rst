@@ -391,6 +391,19 @@ ICT Trainer (Docente ICT)
 -  **Missione.** Fornisce la conoscenza e le abilità necessarie per
    assicurare che i discenti siano effettivamente capaci di svolgere i
    loro compiti sul posto di lavoro.
+   
+Metric Expert (Esperto Metrico)
+ """"""""""""""""""""""""""""""""""""""""
+ - **Descrizione sintetica.** Predispone, elabora e governa l’impianto 
+   metrico legato ai processi/prodotti e servizi ICT
+ 
+ - **Missione**. Definisce e assicura la progettazione e realizzazione 
+   di un sistema metrico , in particolare seleziona le misure per la 
+   gestione di un progetto monitorandone l’andamento e confrontandosi 
+   con i benchmark di mercato allo scopo di implementare il 
+   ‘miglioramento’  dei processi con cui sono realizzati i 
+   prodotti/servizi  (CONTINUOS PROCESS IMPROVEMENT )
+
 
 Network Specialist (Specialista di Rete)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""
